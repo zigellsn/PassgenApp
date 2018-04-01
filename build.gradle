@@ -1,5 +1,5 @@
 /*
- * Copyright 2015-2018 Simon Zigelli
+ * Copyright 2017-2018 Simon Zigelli
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
  */
 
 buildscript {
-    ext.kotlin_version = '1.2.30'
+    ext.kotlin_version = '1.2.31'
     repositories {
         google()
         jcenter()
