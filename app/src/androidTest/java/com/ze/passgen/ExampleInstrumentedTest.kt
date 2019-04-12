@@ -35,6 +35,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.ze.ibanthevalid", appContext.packageName)
+        assertEquals("com.ze.passgen", appContext.packageName)
     }
 }
